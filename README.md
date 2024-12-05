@@ -1,1 +1,1 @@
-# proje-1
+Fixed layout issues on the homepage and updated the header styling
